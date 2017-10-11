@@ -1,0 +1,26 @@
+---
+1: !ruby/object:Movie
+  title: '2012'
+  director: 
+  year: '2008'
+  id: 1
+2: !ruby/object:Movie
+  title: the Aleins
+  director: 
+  year: '2005'
+  id: 2
+3: !ruby/object:Movie
+  title: 霸王别姬
+  director: 
+  year: '1997'
+  id: 3
+4: !ruby/object:Movie
+  title: fuck
+  director: 
+  year: '2017'
+  id: 4
+5: !ruby/object:Movie
+  title: hello
+  director: 
+  year: '1009'
+  id: 5
